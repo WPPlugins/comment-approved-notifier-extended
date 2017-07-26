@@ -1,0 +1,63 @@
+# Copyright (C) 2015 Comment Approved Notifier Extended
+# This file is distributed under the same license as the Comment Approved Notifier Extended package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Approved Notifier Extended 4.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/comment-approved-"
+"notifier-extended\n"
+"POT-Creation-Date: 2015-12-08 07:55:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: comment-approved-notifier-extended.php:24
+msgid "Your Comment is Approved!"
+msgstr ""
+
+#: comment-approved-notifier-extended.php:32
+msgid "Dear "
+msgstr ""
+
+#: comment-approved-notifier-extended.php:34
+msgid "Your comment is approved to this post"
+msgstr ""
+
+#: comment-approved-notifier-extended.php:39
+msgid "You can see your comment from following address"
+msgstr ""
+
+#: comment-approved-notifier-extended.php:44
+msgid "Your Comment"
+msgstr ""
+
+#: comment-approved-notifier-extended.php:47
+msgid "Thanks for your comment."
+msgstr ""
+
+#: comment-approved-notifier-extended.php:51
+msgid "(If you didn't send this comment, we apologize for this e-mail)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Comment Approved Notifier Extended"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.ubilisim.com/comment-approved-notifier-extended-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Send notification e-mail to user when comment approved."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UfukArt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.ubilisim.com/"
+msgstr ""

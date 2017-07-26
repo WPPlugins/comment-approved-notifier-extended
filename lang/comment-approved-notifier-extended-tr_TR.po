@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Approved Notifier Extended\n"
+"POT-Creation-Date: 2015-06-05 14:29+0200\n"
+"PO-Revision-Date: 2015-06-05 14:31+0200\n"
+"Last-Translator: UBilişim <info@ubilisim.com>\n"
+"Language-Team: UBilişim <info@ubilisim.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comment-approved-notifier-extended.php:33
+msgid "Your Comment is Approved!"
+msgstr "Yorumunuz Onaylandı!"
+
+#: comment-approved-notifier-extended.php:41
+msgid "Dear "
+msgstr "Değerli "
+
+#: comment-approved-notifier-extended.php:43
+msgid "Your comment is approved to this post"
+msgstr "Bu konuya yaptığınız yorum onaylandı"
+
+#: comment-approved-notifier-extended.php:48
+msgid "You can see your comment from following address"
+msgstr "Yorumunuzu aşağıdaki adresten görebilirsiniz"
+
+#: comment-approved-notifier-extended.php:53
+msgid "Your Comment"
+msgstr "Yorumunuz"
+
+#: comment-approved-notifier-extended.php:56
+msgid "Thanks for your comment."
+msgstr "Yorumunuz için teşekkürler."
+
+#: comment-approved-notifier-extended.php:60
+msgid "(If you didn't send this comment, we apologize for this e-mail)"
+msgstr "(Eğer bu yorumu siz göndermediyseniz, bu eposta için özür dileriz)"
+
+#~ msgid "Soon."
+#~ msgstr "Yakında."
+
+#~ msgid "You will see plugin settings from here, as soon"
+#~ msgstr "Yakında  buradan eklenti ayarlarını görebileceksiniz."
+
+#~ msgid "Thank you for your comment."
+#~ msgstr "Yorumunuz için teşekkürler."
+
+#~ msgid "You can see your comment from this address"
+#~ msgstr "Yorumunuzu bu adresten görebilirsiniz"
+
+#~ msgid "Your can see your comment from this address"
+#~ msgstr "Yorumunuzu bu adresten görebilirsiniz"
+
+#~ msgid "Approved your comment to this topic"
+#~ msgstr "Bu konuya yaptığınız yorum onaylandı"
+
+#~ msgid "Your can see your comment from this address;<br>"
+#~ msgstr "Yorumunuzu bu adresten görebilirsiniz;<br>"
+
+#~ msgid "Your Comment;<br><blockquote>"
+#~ msgstr "Yorumunuz;<br><blockquote>"
+
+#~ msgid "Thank you for your comment.<br>"
+#~ msgstr "Yorumunuz için teşekkürler.<br>"
+
+#~ msgid ""
+#~ "<p>(If you didn't send this comment, we apologize for this e-mail)<p>"
+#~ msgstr ""
+#~ "<p>(Eğer bu yorumu siz göndermediyseniz, bu eposta için özür dileriz)<p>"
+
+#~ msgid "Your can see your comment from this address<br>"
+#~ msgstr "Yorumunuzu bu adresten görebilirsiniz<br>"
+
+#~ msgid "Your Comment;<br>"
+#~ msgstr "Yorumunuz;<br>"
+
+#~ msgid "Your can see your comment from this address; "
+#~ msgstr "Yorumunuzu bu adresten görebilirsiniz; "
+
+#~ msgid "Your Comment;"
+#~ msgstr "Yorumunuz;"
+
+#~ msgid "Hi there!"
+#~ msgstr "Merhaba!"

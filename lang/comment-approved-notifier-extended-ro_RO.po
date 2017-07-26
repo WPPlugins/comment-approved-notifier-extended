@@ -1,0 +1,66 @@
+# Copyright (C) 2015 Comment Approved Notifier Extended
+# This file is distributed under the same license as the Comment Approved Notifier Extended package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Comment Approved Notifier Extended 4.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/comment-approved-notifier-extended\n"
+"POT-Creation-Date: 2015-10-05 23:06+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-10-06 15:52+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"Language: ro_RO\n"
+
+#: comment-approved-notifier-extended.php:24
+msgid "Your Comment is Approved!"
+msgstr "Comentariul tau este aprobat!"
+
+#: comment-approved-notifier-extended.php:32
+msgid "Dear "
+msgstr "Buna "
+
+#: comment-approved-notifier-extended.php:34
+msgid "Your comment is approved to this post"
+msgstr "Ti-a fost aprobat comentariul lasat pentru articolul"
+
+#: comment-approved-notifier-extended.php:39
+msgid "You can see your comment from following address"
+msgstr "Poti vizualiza comentariul facand click pe link-ul de mai jos"
+
+#: comment-approved-notifier-extended.php:44
+msgid "Your Comment"
+msgstr "Comentariul Tau"
+
+#: comment-approved-notifier-extended.php:47
+msgid "Thanks for your comment."
+msgstr "Iti multumim pentru comentariul lasat."
+
+#: comment-approved-notifier-extended.php:51
+msgid "(If you didn't send this comment, we apologize for this e-mail)"
+msgstr "(Daca nu tu ai trimis acest comentariu, ne cerem scuze si il poti ignora acest e-mail)"
+
+#. Plugin Name of the plugin/theme
+msgid "Comment Approved Notifier Extended"
+msgstr "Instanta de notificare pentru comentarii aprobate"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.ubilisim.com/comment-approved-notifier-extended-wordpress-plugin/"
+msgstr "http://www.ubilisim.com/comment-approved-notifier-extended-wordpress-plugin/"
+
+#. Description of the plugin/theme
+msgid "Send notification e-mail to user when comment approved."
+msgstr ""
+"Trimite o notificare unui vizitator/utilizator inregistrat dupa ce comentariul acestuia postat la "
+"unul dinter articolele din blog a fost aprobat."
+
+#. Author of the plugin/theme
+msgid "UfukArt"
+msgstr "UfukArt"
+
+#. Author URI of the plugin/theme
+msgid "http://www.ubilisim.com/"
+msgstr "http://www.ubilisim.com/"
